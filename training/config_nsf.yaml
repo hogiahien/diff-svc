@@ -10,7 +10,7 @@ binarization_args:
   with_spk_embed: false
   with_wav: false
 binarizer_cls: preprocessing.SVCpre.SVCBinarizer
-binary_data_dir: data/binary/hogiahien
+binary_data_dir: data/binary/hogiahien/hogiahien
 check_val_every_n_epoch: 10
 choose_test_manually: false
 clip_grad_norm: 1
